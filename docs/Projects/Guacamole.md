@@ -14,18 +14,18 @@
 
 ## Guacamole Server
 
-<img src="/../../assets/Guacamole/guac1.png"  width="4000"/> <br>
+<img src="../../assets/Guacamole/guac1.png"  width="4000"/> <br>
 
 ---
 
 ## Guacamole Dashboard
 
-<img src="/../../assets/Guacamole/guac2.png"  width="4000"/> <br>
+<img src="../../assets/Guacamole/guac2.png"  width="4000"/> <br>
 
 ---
 
 ## Connections
 
-<img src="/../../assets/Guacamole/guac3.png"  width="4000"/> <br>
+<img src="../../assets/Guacamole/guac3.png"  width="4000"/> <br>
 
 ---

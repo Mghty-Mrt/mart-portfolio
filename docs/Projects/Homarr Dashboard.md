@@ -10,10 +10,10 @@
 
 # Docker Compose File
 
-## <img src="/../../assets/Dashboard/dashboard_1.png"  width="4000"/> <br>
+## <img src="../../assets/Dashboard/dashboard_1.png"  width="4000"/> <br>
 
 # Dashboard
 
-<img src="/../../assets/Dashboard/dashboard_2.png"  width="4000"/> <br>
+<img src="../../assets/Dashboard/dashboard_2.png"  width="4000"/> <br>
 
 ---

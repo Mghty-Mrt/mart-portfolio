@@ -23,20 +23,20 @@
 
 ## Free PBX Dashboard
 
-<img src="/../../assets/FreePBX/pbx2.png"  width="4000"/> <br>
+<img src="../../assets/FreePBX/pbx2.png"  width="4000"/> <br>
 
 ---
 
 ## Extensions
 
-<img src="/../../assets/FreePBX/pbx3.png"  width="4000"/> <br>
+<img src="../../assets/FreePBX/pbx3.png"  width="4000"/> <br>
 
 ---
 
 ## Queues
 
-<img src="/../../assets/FreePBX/pbx4.png"  width="4000"/> <br>
+<img src="../../assets/FreePBX/pbx4.png"  width="4000"/> <br>
 
 ## 3CX
 
-<img src="/../../assets/FreePBX/pbx5.png"  width="4000"/> <br>
+<img src="../../assets/FreePBX/pbx5.png"  width="4000"/> <br>

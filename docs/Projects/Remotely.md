@@ -16,28 +16,28 @@
 
 ## Remotely Dashboard
 
-<img src="/../../assets/Remotely/remote2.png"  width="4000"/> <br>
+<img src="../../assets/Remotely/remote2.png"  width="4000"/> <br>
 
 ---
 
 ## Remotely Deploy Agent
 
-<img src="/../../assets/Remotely/remote3.png"  width="4000"/> <br>
+<img src="../../assets/Remotely/remote3.png"  width="4000"/> <br>
 
 ---
 
 ## Remotely Docker Containers
 
-<img src="/../../assets/Remotely/remote1.png"  width="4000"/> <br>
+<img src="../../assets/Remotely/remote1.png"  width="4000"/> <br>
 
 ---
 
 ## Caddy as Reverse Proxy
 
-<img src="/../../assets/Remotely/remote4.png"  width="4000"/> <br>
+<img src="../../assets/Remotely/remote4.png"  width="4000"/> <br>
 
 ---
 
 ## Caddy Configuration
 
-<img src="/../../assets/Remotely/remote5.png"  width="4000"/> <br>
+<img src="../../assets/Remotely/remote5.png"  width="4000"/> <br>
