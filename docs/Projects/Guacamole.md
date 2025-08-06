@@ -1,6 +1,7 @@
-## <h1 style="text-align: center;"> Guacamole </h1>
+<h1 style="text-align: center;"> Guacamole </h1>
 
 ## 🖥️ What is Guacamole?
+
 - Clientless remote desktop gateway
 
 - Access via browser—no plugins or client software needed
@@ -12,18 +13,19 @@
 ---
 
 ## Guacamole Server
+
 <img src="/../../assets/Guacamole/guac1.png"  width="4000"/> <br>
 
 ---
 
+## Guacamole Dashboard
 
-## Guacamole Dashboard 
 <img src="/../../assets/Guacamole/guac2.png"  width="4000"/> <br>
 
 ---
 
-
 ## Connections
+
 <img src="/../../assets/Guacamole/guac3.png"  width="4000"/> <br>
 
 ---

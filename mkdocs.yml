@@ -1,71 +1,72 @@
 site_name: John Remart A. Prima
 theme:
-    name: material
-    palette:
-      - media: "(prefers-color-scheme)"
-        toggle:
-          icon: material/link
-          name: Switch to light mode
-      - media: "(prefers-color-scheme: light)"
-        scheme: default
-        primary: indigo
-        accent: indigo
-        toggle:
-          icon: material/toggle-switch
-          name: Switch to dark mode
-      - media: "(prefers-color-scheme: dark)"
-        scheme: slate
-        primary: black
-        accent: indigo
-        toggle:
-          icon: material/toggle-switch-off
-          name: Switch to system preference
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
 
-    font:
-      text: Roboto
-      code: Roboto Mono
-    icon:
-      logo: logo
-    features:
-       - content.code.annotate
-       - content.code.copy
-       - content.tabs.link
-       - announce.dismiss
-       - navigation.indexes 
-       - navigation.sections 
-       - navigation.tabs 
-       - header.autohide  
-       - navigation.footer   
-       - navigation.top 
-       - navigation.tracking
-       - search.highlight 
-       - search.share
-       - search.suggest
-  
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - announce.dismiss
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+
 markdown_extensions:
-      - codehilite
-      - admonition
-      - toc:
-          permalink: true
-      - pymdownx.superfences
-      - pymdownx.highlight
-      - pymdownx.inlinehilite
-      - pymdownx.keys
-      
+  - codehilite
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+
 nav:
-      - Home: index.md
-      - Resume: My Resume.md
-      - Projects:
-        - Free PBX: Projects/Free PBX.md
-        - Guacamole: Projects/Guacamole.md
-        - Homarr Dashboard: Projects/Homarr Dashboard.md
-        - Remotely: Projects/Remotely.md
-        - Kong API Gateway: Projects/Kong API Gateway.md
-        - VMware ESXI: Projects/VMware.md
-        
-   
+  - Home: index.md
+  - Work Experience: Work Experience.md
+  - Skills: Skills.md
+
+  - Projects:
+      - Free PBX: Projects/Free PBX.md
+      - Guacamole: Projects/Guacamole.md
+      - Homarr Dashboard: Projects/Homarr Dashboard.md
+      - Remotely: Projects/Remotely.md
+      - Kong API Gateway: Projects/Kong API Gateway.md
+      - VMware ESXI: Projects/VMware.md
+
 extra_css:
-      - assets/stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 extra:
   social:
@@ -73,6 +74,4 @@ extra:
       link: https://www.linkedin.com/in/john-remart-prima-850bb4189/
       name: John Remart A. Prima
 
-
-
-repo_url: https://github.com/Mghty-Mrt/Projects.git
+repo_url: https://github.com/Mghty-Mrt

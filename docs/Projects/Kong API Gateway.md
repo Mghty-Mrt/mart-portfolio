@@ -1,9 +1,6 @@
+<h1 style="text-align: center; ">Kong Servers</h1>
 
----
-
-## <h1 style="text-align: center; ">Kong Servers</h1> 
-
-
+## What is Kong?
 
 <img src="../../assets/Kong API Gateway/konga/konga1.png"  width="4000"/> <br>
 
@@ -19,11 +16,9 @@
 
 ---
 
+<h1 style="text-align: center;"> Nginx Load Balancer </h1>
 
-
-## <h1 style="text-align: center;"> Nginx Load Balancer </h1>
-
-
+## What is Load Balancer?
 
 <img src="../../assets/Kong API Gateway/nginx/lb1.png"  width="4000"/> <br>
 
@@ -35,19 +30,18 @@
 
 ---
 
-## <h1 style="text-align: center;">Prometheus</h1>
+<h1 style="text-align: center;">Prometheus</h1>
 
-
+## What is Prometheus?
 
 <img src="../../assets/Kong API Gateway/prometheus/prometheus1.png"  width="4000"/> <br>
 <img src=" "  width="4000"/> <br>
 
+---
 
---- 
+ <h1 style="text-align: center;">Grafana</h1>
 
-## <h1 style="text-align: center;">Grafana</h1>
-
-
+## What is Grafana?
 
 <img src="../../assets/Kong API Gateway/grafana/grafana1.png"  width="4000"/> <br>
 <img src=" "  width="4000"/> <br>
