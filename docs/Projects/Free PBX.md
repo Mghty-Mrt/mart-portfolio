@@ -17,7 +17,7 @@
 
 ## Free PBX Server
 
-<img src="/../../assets/FreePBX/pbx1.png"  width="4000"/> <br>
+<img src="../../assets/FreePBX/pbx1.png"  width="4000"/> <br>
 
 ---
 
