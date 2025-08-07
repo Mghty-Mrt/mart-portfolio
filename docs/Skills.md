@@ -1,4 +1,4 @@
-# 🛠 Technical Skills
+# 🛠️ Technical Skills
 
 - **Infrastructure & System Administration Linux ( Ubuntu, Debian):**
   VMware ESXi · Static IP Assignment · SSL/Certificate Management · Virtualization · Host Server Operations
@@ -17,7 +17,7 @@
 
 ---
 
-## Soft Skills
+# 🛠️ Soft Skills
 
 - Communication, Proactiveness, Critical Thinking
 - Analytical thinker with strong troubleshooting abilities

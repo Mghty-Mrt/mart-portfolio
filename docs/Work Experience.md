@@ -5,7 +5,7 @@ Wilcon Depot Head Office
 
 - 📅 Nov 26, 2024 - Present
 
-🔧 Infrastructure & Load Balancing
+## 🔧 Infrastructure & Load Balancing
 
 - Deployed a resilient Kong API Gateway cluster with three load-balanced nodes for high availability and seamless traffic routing.
 
@@ -13,7 +13,7 @@ Wilcon Depot Head Office
 
 ---
 
-📊 Observability & Logging
+## 📊 Observability & Logging
 
 - Centralized Kong logs via Promtail with tagged metadata and failover transparency in Grafana.
 
@@ -21,53 +21,65 @@ Wilcon Depot Head Office
 
 ---
 
-📈 Metrics & Monitoring
+## 📈 Metrics & Monitoring
 
 - Implemented a full observability stack (Prometheus, Grafana, Promtail) with dashboards for API performance and error tracking.
 
 ---
 
-🚀 Automation & Deployment
+## 🖥️ Virtualization & Resource Optimization
 
-- Standardized multi-service Docker deployments across branches for efficient rollout and maintenance.
+- Managed VMware vSphere ESXi stack for consolidating services and optimizing infrastructure resources.
 
-- Automated provisioning and configs with Ansible and Bash to minimize setup time and reduce human error.
+- Confidently administered VMware ESXi environments, enabling the reduction of physical server needs by implementing a scalable and virtualized infrastructure.
+
+- Utilized virtualization to create, clone, and migrate servers efficiently, optimizing resource utilization and enhancing flexibility in server management.
 
 ---
 
-🔐 Reverse Proxy Design
+## 🛠️ Linux System Oversight
+
+- Managed Ubuntu/Debian Servers: Ensured secure, multi-tenant environments by administering Ubuntu/Debian servers, implementing best practices for system security and performance optimization.
+
+---
+
+## 🐳 Standerdized Deployments with Docker Compose:
+
+- Developed and utilized Docker Compose to create standardized deployment processes for efficient application management. 
+
+- Implemented containerization strategies that simplified configuration modifications and ensured isolated networking for specific groups of containers.
+ 
+- Organized deployment projects by creating structured folders containing Docker Compose files, which facilitated easy access to configurations and insights into the containerized application's environment, including configurations, databases, and directory structures.
+
+---
+
+## ⚙️ Optimized Server Provisioning with Ansible:
+
+ - Created and maintained Ansible scripts for automating the provisioning and configuration of multiple servers simultaneously.
+
+ - Ensured applications were deployed across servers with uniform configurations, enhancing consistency, reducing setup time, and minimizing configuration drift.
+
+---
+
+## 🔐 Reverse Proxy Design
+
+- Configured NGINX as a reverse proxy to enhance security and efficiently manage incoming traffic. 
+
+- Implemented access control measures ensuring that internal resources were accessible only via DNS, masking real IP addresses for added security.
 
 - Built flexible reverse proxy layers with Nginx and Caddy for SSL termination and dynamic route management.
 
 ---
 
-🧩 Platform Integration & Service Management for internal use
-
-- Integrated communication (FreePBX, 3CX)
-- Storage (Samba, Nextcloud, Syncthing)
-- Backup (Duplicati)
-- Remote Access (Remotely)
-
----
-
-🌐 Network Sync & Availability
-
-- Built branch-to-HQ replication pipelines with static IP mapping and sync strategies to ensure continuous data access.
-
----
-
-🖥️ Virtualization & Resource Optimization
-
-- Managed VMware vSphere ESXi stack for consolidating services and optimizing infrastructure resources.
-
----
-
-🗃️ Database Administration
+## 🗃️ Database Administration
 
 - Administered MySQL and MSSQL databases for internal tools and monitoring systems.
 
 ---
 
-🛠️ Linux System Oversight
+## 🧩 Platform Integration & Service Management for internal use
 
-- Maintained core infrastructure on Ubuntu/Debian systems with regular updates, secure networking, and endpoint hardening.
+- Integrated communication (FreePBX, 3CX)
+- Storage (Samba, Nextcloud, Syncthing)
+- Backup (Duplicati)
+- Remote Access (Remotely)

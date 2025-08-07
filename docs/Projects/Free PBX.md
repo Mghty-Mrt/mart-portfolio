@@ -1,21 +1,4 @@
-<h1 style="text-align: center;"> Free PBX </h1>
-
-## 📞 What is FreePBX?
-
-- Open-source web GUI for managing Asterisk (VoIP PBX system)
-- Used to build and control business phone systems
-
-## 🚀 Benefits
-
-- Free to use and highly customizable
-
-- Scales easily with unlimited extensions
-
-- Compatible with SIP trunks and legacy hardware
-
----
-
-## Free PBX Server
+# Free PBX Server
 
 <img src="../../assets/FreePBX/pbx1.png"  width="4000"/> <br>
 
@@ -29,11 +12,15 @@
 
 ## Extensions
 
+- Internal numbers assigned to employees and managers for direct communication within the PBX.
+
 <img src="../../assets/FreePBX/pbx3.png"  width="4000"/> <br>
 
 ---
 
 ## Queues
+
+- Call groups that route incoming calls—starting with Helpdesk, which forwards them to the right team based on client needs.
 
 <img src="../../assets/FreePBX/pbx4.png"  width="4000"/> <br>
 

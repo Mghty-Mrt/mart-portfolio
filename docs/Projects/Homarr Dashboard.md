@@ -1,18 +1,11 @@
-<h1 style="text-align: center;"> Homarr Dashboard </h1>
-## 🖥️ What is Homarr?
-- Central dashboard for managing self-hosted apps
-
-- Sleek, customizable interface with drag-and-drop layout
-
-- Quick access to services
-
----
-
 # Docker Compose File
 
 ## <img src="../../assets/Dashboard/dashboard_1.png"  width="4000"/> <br>
 
-# Dashboard
+## Dashboard
+- This is my internal dashboard for, where I centralized access to our monitoring tools, remote access platforms, and key infrastructure systems. I grouped services Server Monitoring for quick visibility, and added tools to manage branch systems securely.
+
+- It helps me respond faster to issues, monitor uptime, and streamline troubleshooting across multiple environments. I built it to reduce friction, improve team handoff, and keep our infrastructure transparent and scalable.
 
 <img src="../../assets/Dashboard/dashboard_2.png"  width="4000"/> <br>
 
