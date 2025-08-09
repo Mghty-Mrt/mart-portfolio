@@ -2,9 +2,7 @@
 
 Connections
 
-- This shows how I manage multiple Kong nodes in KONGA, with versioning and activation controls for each gateway—ensuring modular, testable, and scalable API infrastructure.
-
-
+- This shows how I manage multiple Kong nodes in KONGA, with versioning and activation controls for each gateway ensuring modular, testable, and scalable API infrastructure.
 
 <img src="../../assets/Kong API Gateway/konga/konga1.png"  width="4000"/> <br>
 
@@ -46,7 +44,7 @@ Accessible Routes
 
 NGINX Configuration
 
-- This NGINX config defines SSL-secured reverse proxying to production and test upstreams, with health-check parameters and standardized headers—enabling seamless API routing across multiple domains and environments.
+- This NGINX config defines SSL-secured reverse proxying to production and test upstreams, with standardized headers—enabling seamless API routing across multiple domains and environments.
 
 
 <img src="../../assets/Kong API Gateway/nginx/lb1.png"  width="4000"/> <br>
@@ -64,7 +62,7 @@ SSL Certificate Files
 
 ## Prometheus
 
-- This shows Prometheus successfully scraping metrics from three Kong nodes—each labeled under the kong job and reporting healthy (UP) status—validating multi-node observability and real-time gateway monitoring.
+- This shows Prometheus successfully scraping metrics from three Kong nodes each labeled under the kong job and reporting healthy (UP) status validating multi-node observability and real-time gateway monitoring.
 
 <img src="../../assets/Kong API Gateway/prometheus/prometheus1.png"  width="4000"/> <br>
 <img src=" "  width="4000"/> <br>
@@ -82,7 +80,7 @@ Grafana Dashboard
 
 Data Sources
 
-- This shows my Grafana setup with Prometheus and Loki configured as data sources—enabling unified metrics and log observability across our infrastructure."
+- This shows my Grafana setup with Prometheus and Loki configured as data sources enabling unified metrics and log observability across our infrastructure."
 
 <img src="../../assets/Kong API Gateway/grafana/grafana2.png"  width="4000"/> <br>
 <img src=" "  width="4000"/> <br>

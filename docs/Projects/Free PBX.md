@@ -26,4 +26,6 @@
 
 ## 3CX
 
+- This is the 3CX softphone interface I use for managing SIP accounts. The active account is for our IT team, while the others are test accounts I configured to simulate multi-branch setups and validate call routing, presence, and provisioning workflows.
+
 <img src="../../assets/FreePBX/pbx5.png"  width="4000"/> <br>
