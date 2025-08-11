@@ -19,8 +19,8 @@
 
 ---
 
-I’m a Junior System Administrator at Wilcon Depot Head Office, specializing in managing multi-branch deployments within Linux environments using automation tools. My core responsibilities include patching and maintaining ETP servers and POS systems, troubleshooting and reconfiguring system errors, and monitoring critical infrastructure through VMware vSphere ESXi.
+Aspiring System Administrator/DevOps Engineer with a solid foundation in managing multi-branch Linux deployments. Currently based at Wilcon Depot Head Office, I specialize in enhancing infrastructure efficiency and reliability through meticulous patching and maintenance of ETP servers and POS systems, systematic troubleshooting, and reconfiguring system errors. My expertise extends to monitoring critical infrastructure using VMware vSphere ESXi.
 
-With a solid foundation in system administration and a growing interest in DevOps, I continuously seek to improve infrastructure efficiency, streamline deployment processes, and enhance system reliability. I’m passionate about leveraging open-source technologies and automation to solve operational challenges and support scalable IT solutions.
+I am passionate about leveraging open-source technologies and automation to address operational challenges and support scalable IT solutions. With a keen interest in DevOps, I am actively developing skills in scripting, CI/CD pipelines, containerization, and cloud platforms.
 
-Currently, I'm expanding my skills in scripting, CI/CD pipelines, containerization, and cloud platforms. I thrive in fast-paced environments and enjoy collaborating with cross-functional teams to deliver results.
+I excel in fast-paced environments and thrive on collaborating with cross-functional teams to drive impactful results. Through continuous learning and hands-on experience, I am dedicated to mastering the art of seamless and efficient deployment processes.
