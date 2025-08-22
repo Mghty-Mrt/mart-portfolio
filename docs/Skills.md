@@ -49,7 +49,7 @@
 
 **Tools:** 
 
-- GitLab 
+- Github
 - Airtable 
 - PuTTY 
 - Termius 
