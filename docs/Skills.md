@@ -1,23 +1,78 @@
 # 🛠️ Technical Skills
 
-- **Infrastructure & System Administration Linux ( Ubuntu, Debian):**
-  VMware ESXi · Static IP Assignment · SSL/Certificate Management · Virtualization · Host Server Operations
+## 🖥️ Infrastructure & System Administration
 
-- **Containerization & Deployment Docker:** Docker Compose · Kong API Gateway · Konga GUI · Nginx · Caddy · Ansible · Bash Scripting
+**Linux ( Ubuntu, Debian):**
 
-- **Monitoring & Observability:** Prometheus · Grafana · Promtail · Zabbix · NocoDB
+- VMware ESXi 
+- Static IP Assignment 
+- SSL/Certificate Management 
+-  Virtualization 
+-  Host Server Operations
 
-- **Storage & Replication:** Nextcloud · Samba · Duplicati · Syncthing
+**Containerization & Automation | Deployment Docker:**
 
-- **Platform Administration:** FreePBX · 3CX · Remotely · Guacamole
+- Docker Compose 
+- Kong API Gateway 
+- Konga GUI 
+- Nginx
+- Caddy
+- Ansible 
+- Bash Scripting
 
-- **Database:** MySQL · MSSQL
+**Monitoring & Observability:** 
 
-- **Tools:** GitLab · Airtable · PuTTY · Termius · Screen
+- Prometheus 
+- Grafana 
+- Promtail 
+- Zabbix 
+- NocoDB
+
+**Storage & Replication:** 
+
+- Nextcloud 
+- Samba 
+- Duplicati 
+- Syncthing
+
+**Platform Administration:** 
+
+- FreePBX 
+- 3CX 
+- Remotely 
+- Guacamole
+
+**Database:** 
+
+- MySQL 
+- MSSQL
+
+**Tools:** 
+
+- GitLab 
+- Airtable 
+- PuTTY 
+- Termius 
+- Screen
 
 ---
 
-# 🛠️ Soft Skills
+## 📘 AWS Learning Phase
+
+**AWS-Cloud:** 
+
+- IAM 
+- EC2 
+- Load Balancer 
+- CLI Access 
+- Migration 
+- EBS 
+- Auto Scaling 
+- Terraform (Basic Instance)
+
+---
+
+## 🤝 Soft Skills
 
 - Communication, Proactiveness, Critical Thinking
 - Analytical thinker with strong troubleshooting abilities
